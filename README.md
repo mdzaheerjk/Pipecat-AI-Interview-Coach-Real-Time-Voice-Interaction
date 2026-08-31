@@ -4,7 +4,7 @@ Develop a real-time AI-powered interview practice coach using voice interaction.
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_yyupayyyupayyyup.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/Gemini_Generated_Image_yyupayyyupayyyup.jpg"
        alt="Project Preview"
        width="600" />
 </p>
@@ -12,7 +12,7 @@ Develop a real-time AI-powered interview practice coach using voice interaction.
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Pasted_Graphic_2_yNUsmfs.png"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/Pasted_Graphic_2_yNUsmfs.png"
        alt="System Architecture"
        width="600" />
 </p>
